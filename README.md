@@ -7,6 +7,6 @@ Paillier encryption algorithm
 * GMP Library
 
 ## test
-`g++ Paillier.cpp -lgmpxx -lgmp -o Paillier./`
+`g++ Paillier.cpp -lgmpxx -lgmp -o Paillier`
 
 `./Paillier`
